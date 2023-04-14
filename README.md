@@ -1,1 +1,1 @@
-# devpj-react-component
+# Register NPM Package
